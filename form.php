@@ -40,7 +40,7 @@
     <input type="number" name="contact" class="form-control" id="exampleInputPassword1" placeholder="Contact Number">
   </div>
   
-  <button type="submit" name="insert" class="btn btn-primary">Insert</button>
+  <button type="submit" name="btn" class="btn btn-primary">Insert</button>
   <button type="submit" name="select" class="btn btn-success">Select</button>
   <button type="submit" name="delete" class="btn btn-danger">Delete</button>
   <button type="submit" name="update" class="btn btn-dark">Update</button>
